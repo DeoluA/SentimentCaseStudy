@@ -337,3 +337,4 @@ ggplot() +
   geom_bar(data=total_sonaiya, mapping=aes(x=Candidate, y=score),
            binwidth=10, position="dodge",stat="identity", fill="green") +
   labs(x="Candidate", y="Score", title="Total Sentiment Scores Tallied")
+

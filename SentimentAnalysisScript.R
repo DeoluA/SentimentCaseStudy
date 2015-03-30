@@ -57,6 +57,9 @@ download.file(url="https://www.dropbox.com/s/mqdpdkz7cywklby/sentiment-analysis.
 unzip(zipfile="sentiment-analysis.zip",
       exdir = "sentiment-analysis")
 
+#set working directory to newly downloaded folder
+setwd("sentiment-analysis")
+
 #load tweets
 buhari_tweets<-read.csv("sentiment-analysis/buhari_tweets.csv",stringsAsFactors=F)
 jonathan_tweets<-read.csv("sentiment-analysis/jonathan_tweets.csv",stringsAsFactors=F)

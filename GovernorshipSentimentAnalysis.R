@@ -33,7 +33,7 @@ library(sentiment)
 
 
 ####download tweets and lexicons dataset####
-download.file(url="https://www.dropbox.com/s/mqdpdkz7cywklby/gov-sentiment-analysis.zip?dl=1",
+download.file(url="https://www.dropbox.com/s/z7gqrj8hgfehu6g/gov-sentiment-analysis.zip?dl=1",
               destfile="gov-sentiment-analysis.zip")
 ##unzip it
 unzip(zipfile="gov-sentiment-analysis.zip",

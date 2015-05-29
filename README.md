@@ -1,5 +1,6 @@
 # SentimentCaseStudy
-This is the repo containing the data used for the analysis of the Nigerian 2015 Presidential Elections sentiments with Twitter Data and Naive Bayes Algorithm
+This is the repo containing the data used for the analysis of the Nigerian 2015 Presidential Elections sentiments with Twitter Data and Naive Bayes Algorithm.
+
 The results:
 
 1. ["Sentiment Analysis on Nigeria's 2015 Presidential Elections"](http://bit.ly/1CtfdxN) by Deolu Adeleye
